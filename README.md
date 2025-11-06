@@ -1,4 +1,33 @@
+## Project Description
 
+Omnifood is an AI-powered food subscription service. The website showcases the service's features, including personalized meal plans, meal selection from over 5,000 recipes, flexible delivery options, and subscription plans.
+
+Users can sign up for a subscription, get tailored meal recommendations, and enjoy daily deliveries that fit their taste and dietary needs.
+
+This project was developed as part of **Jonas Schmedtmann's** **HTML & CSS course**, focusing on creating a responsive, modern website layout, adding interactivity with JavaScript, and ensuring an optimal user experience on both desktop and mobile devices
+---
+
+## Features
+
+- **Personalized Meal Plans**: AI-driven meal plans customized to your dietary preferences and needs.
+- **Meal Selection**: Over 5,000 recipes to choose from, catering to various diets like vegan, vegetarian, keto, and more.
+- **Flexible Delivery**: Get meals delivered to your door at a time that fits your schedule.
+- **Subscription Plans**: Choose from different plans, such as the Starter or Complete plan.
+- **Responsive Design**: Fully optimized for mobile devices with a sticky header and mobile-friendly navigation.
+- **Smooth Scrolling & Navigation**: Smooth scrolling animations for seamless transitions between sections.
+- **Testimonial Section**: Customer reviews and testimonials to build trust with potential users.
+- **Social Proof**: Logos of well-known media outlets that have featured Omnifood.
+
+---
+
+## Technologies Used
+
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling the website and making it responsive across devices.
+- **JavaScript**: To add interactivity, including smooth scrolling, sticky navigation, and mobile navigation functionality.
+- **Google Fonts**: Custom fonts (Rubik) for a modern look.
+- **Ionicons**: For vector icons used in the navigation and buttons.
+- **Polyfill (smoothscroll-polyfill)**: For ensuring smooth scrolling in older browsers.
 
 
 
